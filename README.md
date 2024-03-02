@@ -1,4 +1,4 @@
 # hello-world
 First repo, eeee
-#removing text
+# removing text
 creating new brunch, amazing
